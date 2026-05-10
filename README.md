@@ -17,7 +17,6 @@ A global organisation operating across **4 regions** (APAC, EMEA, LATAM, North A
 
 An executive-ready **Financial Intelligence Suite** in Tableau that delivers instant clarity on profitability and asset efficiency — without requiring users to understand the underlying data model.
 
-https://github.com/Data-Sherlock/CFO-Level-Financial-Performance-Dashboard/blob/main/Financial%20Dashboard.png
 
 ### Dashboard Features
 ![Image Alt](https://github.com/Data-Sherlock/CFO-Level-Financial-Performance-Dashboard/blob/be6959686361514b4c99c6c0c0cf484a5d706a50/Financial%20Dashboard.png)
