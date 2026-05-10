@@ -20,8 +20,7 @@ An executive-ready **Financial Intelligence Suite** in Tableau that delivers ins
 https://github.com/Data-Sherlock/CFO-Level-Financial-Performance-Dashboard/blob/main/Financial%20Dashboard.png
 
 ### Dashboard Features
-![Image Alt](https://github.com/Data-Sherlock/CFO-Level-Financial-Performance-Dashboard/blob/46f8e398e743add3d38787d6ca51a2ac99425044/Financial%20Dashboard.png)
-
+![Image Alt](https://github.com/Data-Sherlock/CFO-Level-Financial-Performance-Dashboard/blob/be6959686361514b4c99c6c0c0cf484a5d706a50/Financial%20Dashboard.png)
 | Feature | Description |
 |---|---|
 | **Dynamic KPI Cards** | Gross Margin, Operating Margin, ROA with real-time YoY delta + colour-coded arrows |
